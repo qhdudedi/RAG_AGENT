@@ -10,5 +10,9 @@ dependencies = [
     "langchain-classic>=1.0.8",
     "langchain-community>=0.4.2",
     "langchain-openai>=1.6.7",
+    "langchain-text-splitters>=1.1.2",
+    "pandas>=3.0.6",
+    "pypdf>=6.19.0",
+    "python-dotenv>=1.2.3",
     "python-env>=1.0.0",
 ]
