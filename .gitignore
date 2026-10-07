@@ -1,6 +1,7 @@
 # 추가
 chroma_db/
 faiss_financial_fraud_pdf_index/
+get_credits.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
